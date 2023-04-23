@@ -1,3 +1,3 @@
 # Zone - Landing Page
 
-Сайт доступен по ссылке: 
+Сайт доступен по ссылке: https://itrostik.github.io/ZoneLandingPage/
